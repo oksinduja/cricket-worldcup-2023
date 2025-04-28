@@ -1,0 +1,49 @@
+season_id,match_number,match_id,team1,team2,date,venue_id,toss_winner,toss_decision,player_of_match,umpire1,umpire2,reserve_umpire,match_referee,winner,winner_wickets,match_type,winner_runs
+S2023-3,5,S2023-3-M5,Australia,India,08/10/23,TN01,Australia,bat,KL Rahul,CB Gaffaney,RA Kettleborough,AT Holdstock,RB Richardson,India,6,Group,0
+S2023-3,18,S2023-3-M18,Australia,Pakistan,20/10/23,KA01,Pakistan,field,DA Warner,CM Brown,RK Illingworth,J Madanagopal,RB Richardson,Australia,0,Group,62
+S2023-3,24,S2023-3-M24,Australia,Netherlands,25/10/23,DE01,Australia,bat,GJ Maxwell,MA Gough,Sharfuddoula,Nitin Menon,AJ Pycroft,Australia,0,Group,309
+S2023-3,27,S2023-3-M27,Australia,New Zealand,28/10/23,HP01,New Zealand,field,TM Head,M Erasmus,Sharfuddoula,MA Gough,AJ Pycroft,Australia,0,Group,5
+S2023-3,36,S2023-3-M36,Australia,England,04/11/23,GU01,England,field,A Zampa,CB Gaffaney,M Erasmus,Ahsan Raza,JJ Crowe,Australia,0,Group,33
+S2023-6,3,S2023-6-M3,Afghanistan,Bangladesh,07/10/23,HP01,Bangladesh,field,Mehedi Hasan Miraz,JS Wilson,HDPK Dharmasena,M Erasmus,AJ Pycroft,Bangladesh,6,Group,0
+S2023-6,9,S2023-6-M9,Afghanistan,India,11/10/23,DE01,Afghanistan,bat,RG Sharma,MA Gough,PR Reiffel,Sharfuddoula,JJ Crowe,India,8,Group,0
+S2023-6,13,S2023-6-M13,Afghanistan,England,15/10/23,DE01,England,field,Mujeeb Ur Rahman,RJ Tucker,Sharfuddoula,P Wilson,JJ Crowe,Afghanistan,0,Group,69
+S2023-6,39,S2023-6-M39,Afghanistan,Australia,07/11/23,MA01,Afghanistan,bat,GJ Maxwell,AG Wharf,MA Gough,Sharfuddoula,JJ Crowe,Australia,3,Group,0
+S2023-6,42,S2023-6-M42,Afghanistan,South Africa,10/11/23,GU01,Afghanistan,bat,HE van der Dussen,CM Brown,Nitin Menon,CB Gaffaney,JJ Crowe,South Africa,5,Group,0
+S2023-9,8,S2023-9-M8,Sri Lanka,Pakistan,10/10/23,TE01,Sri Lanka,bat,Mohammad Rizwan,AG Wharf,CB Gaffaney,RJ Tucker,AJ Pycroft,Pakistan,6,Group,0
+S2023-9,14,S2023-9-M14,Sri Lanka,Australia,16/10/23,UP01,Sri Lanka,bat,A Zampa,CB Gaffaney,JS Wilson,,RB Richardson,Australia,5,Group,0
+S2023-9,30,S2023-9-M30,Sri Lanka,Afghanistan,30/10/23,MA02,Afghanistan,field,Fazalhaq Farooqi,CB Gaffaney,RK Illingworth,M Erasmus,J Srinath,Afghanistan,7,Group,0
+S2023-9,38,S2023-9-M38,Sri Lanka,Bangladesh,06/11/23,DE01,Bangladesh,field,Shakib Al Hasan,M Erasmus,RK Illingworth,AT Holdstock,RB Richardson,Bangladesh,3,Group,0
+S2023-9,41,S2023-9-M41,Sri Lanka,New Zealand,09/11/23,KA01,New Zealand,field,TA Boult,AT Holdstock,JS Wilson,PR Reiffel,J Srinath,New Zealand,5,Group,0
+S2023-8,11,S2023-8-M11,Bangladesh,New Zealand,13/10/23,TN01,New Zealand,field,LH Ferguson,HDPK Dharmasena,Nitin Menon,AG Wharf,RB Richardson,New Zealand,8,Group,0
+S2023-8,17,S2023-8-M17,Bangladesh,India,19/10/23,MA02,Bangladesh,bat,V Kohli,AT Holdstock,RA Kettleborough,M Erasmus,AJ Pycroft,India,7,Group,0
+S2023-8,31,S2023-8-M31,Bangladesh,Pakistan,31/10/23,WE01,Bangladesh,bat,Fakhar Zaman,Nitin Menon,RA Kettleborough,PR Reiffel,AJ Pycroft,Pakistan,7,Group,0
+S2023-8,43,S2023-8-M43,Bangladesh,Australia,11/11/23,MA02,Australia,field,MR Marsh,Ahsan Raza,M Erasmus,RA Kettleborough,AJ Pycroft,Australia,8,Group,0
+S2023-7,1,S2023-7-M1,England,New Zealand,05/10/23,GU01,New Zealand,field,R Ravindra,HDPK Dharmasena,Nitin Menon,Sharfuddoula,J Srinath,New Zealand,9,Group,0
+S2023-7,7,S2023-7-M7,England,Bangladesh,10/10/23,HP01,Bangladesh,field,DJ Malan,Ahsan Raza,P Wilson,HDPK Dharmasena,J Srinath,England,0,Group,137
+S2023-7,25,S2023-7-M25,England,Sri Lanka,26/10/23,KA01,England,bat,CBRLS Kumara,AT Holdstock,CM Brown,RJ Tucker,J Srinath,Sri Lanka,8,Group,0
+S2023-7,40,S2023-7-M40,England,Netherlands,08/11/23,MA02,England,bat,BA Stokes,Ahsan Raza,RJ Tucker,P Wilson,AJ Pycroft,England,0,Group,160
+S2023-7,44,S2023-7-M44,England,Pakistan,11/11/23,WE01,England,bat,DJ Willey,P Wilson,RJ Tucker,PR Reiffel,J Srinath,England,0,Group,93
+S2023-2,4,S2023-2-M4,South Africa,Sri Lanka,07/10/23,DE01,Sri Lanka,field,AK Markram,RK Illingworth,Sharfuddoula,AG Wharf,J Srinath,South Africa,0,Group,102
+S2023-2,10,S2023-2-M10,South Africa,Australia,12/10/23,UP01,Australia,field,Q de Kock,JS Wilson,RK Illingworth,CM Brown,J Srinath,South Africa,0,Group,134
+S2023-2,20,S2023-2-M20,South Africa,England,21/10/23,MA01,England,field,H Klaasen,HDPK Dharmasena,Nitin Menon,JS Wilson,J Srinath,South Africa,0,Group,229
+S2023-2,23,S2023-2-M23,South Africa,Bangladesh,24/10/23,MA01,South Africa,bat,Q de Kock,Ahsan Raza,JS Wilson,KN Ananthapadmanabhan,JJ Crowe,South Africa,0,Group,149
+S2023-2,32,S2023-2-M32,South Africa,New Zealand,01/11/23,MA02,New Zealand,field,HE van der Dussen,Ahsan Raza,HDPK Dharmasena,P Wilson,RB Richardson,South Africa,0,Group,190
+S2023-2,47,S2023-2-M47,South Africa,Australia,16/11/23,WE01,South Africa,bat,TM Head,Nitin Menon,RA Kettleborough,MA Gough,J Srinath,Australia,3,Semi Final,0
+S2023-4,6,S2023-4-M6,New Zealand,Netherlands,09/10/23,TE01,Netherlands,field,MJ Santner,PR Reiffel,RJ Tucker,Nitin Menon,AJ Pycroft,New Zealand,0,Group,99
+S2023-4,16,S2023-4-M16,New Zealand,Afghanistan,18/10/23,TN01,Afghanistan,field,GD Phillips,JS Wilson,P Wilson,J Madanagopal,J Srinath,New Zealand,0,Group,149
+S2023-4,21,S2023-4-M21,New Zealand,India,22/10/23,HP01,India,field,Mohammed Shami,AT Holdstock,MA Gough,Praveen Sen,AJ Pycroft,India,4,Group,0
+S2023-4,35,S2023-4-M35,New Zealand,Pakistan,04/11/23,KA01,Pakistan,field,Fakhar Zaman,P Wilson,RA Kettleborough,JS Wilson,RB Richardson,Pakistan,0,Group,21
+S2023-1,29,S2023-1-M29,India,England,29/10/23,UP01,England,field,RG Sharma,AT Holdstock,RJ Tucker,CM Brown,RB Richardson,India,0,Group,100
+S2023-1,33,S2023-1-M33,India,Sri Lanka,02/11/23,MA01,Sri Lanka,field,Mohammed Shami,CM Brown,PR Reiffel,RK Illingworth,JJ Crowe,India,0,Group,302
+S2023-1,37,S2023-1-M37,India,South Africa,05/11/23,WE01,India,bat,V Kohli,HDPK Dharmasena,PR Reiffel,AG Wharf,AJ Pycroft,India,0,Group,243
+S2023-1,45,S2023-1-M45,India,Netherlands,12/11/23,KA01,India,bat,SS Iyer,CB Gaffaney,MA Gough,CM Brown,RB Richardson,India,0,Group,160
+S2023-1,46,S2023-1-M46,India,New Zealand,15/11/23,MA01,India,bat,Mohammed Shami,RK Illingworth,RJ Tucker,AT Holdstock,AJ Pycroft,India,0,Semi Final,70
+S2023-1,48,S2023-1-M48,India,Australia,19/11/23,GU01,Australia,field,TM Head,RK Illingworth,RA Kettleborough,CB Gaffaney,AJ Pycroft,Australia,6,Final,0
+S2023-10,15,S2023-10-M15,Netherlands,South Africa,17/10/23,HP01,South Africa,field,SA Edwards,MA Gough,RA Kettleborough,Ahsan Raza,JJ Crowe,Netherlands,0,Group,38
+S2023-10,19,S2023-10-M19,Netherlands,Sri Lanka,21/10/23,UP01,Netherlands,bat,S Samarawickrama,Ahsan Raza,M Erasmus,CB Gaffaney,JJ Crowe,Sri Lanka,5,Group,0
+S2023-10,28,S2023-10-M28,Netherlands,Bangladesh,28/10/23,WE01,Netherlands,bat,PA van Meekeren,JS Wilson,P Wilson,CB Gaffaney,JJ Crowe,Netherlands,0,Group,87
+S2023-10,34,S2023-10-M34,Netherlands,Afghanistan,03/11/23,UP01,Netherlands,bat,Mohammad Nabi,Nitin Menon,Sharfuddoula,HDPK Dharmasena,J Srinath,Afghanistan,7,Group,0
+S2023-5,2,S2023-5-M2,Pakistan,Netherlands,06/10/23,TE01,Netherlands,field,Saud Shakeel,AT Holdstock,CM Brown,PR Reiffel,JJ Crowe,Pakistan,0,Group,81
+S2023-5,12,S2023-5-M12,Pakistan,India,14/10/23,GU01,India,field,JJ Bumrah,M Erasmus,RK Illingworth,CB Gaffaney,AJ Pycroft,India,7,Group,0
+S2023-5,22,S2023-5-M22,Pakistan,Afghanistan,23/10/23,TN01,Pakistan,bat,Ibrahim Zadran,PR Reiffel,RJ Tucker,HDPK Dharmasena,RB Richardson,Afghanistan,8,Group,0
+S2023-5,26,S2023-5-M26,Pakistan,South Africa,27/10/23,TN01,Pakistan,bat,T Shamsi,AG Wharf,PR Reiffel,RA Kettleborough,RB Richardson,South Africa,1,Group,0

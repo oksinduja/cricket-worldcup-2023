@@ -1,0 +1,62 @@
+[
+    {
+        "venue": "Eden Gardens",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "country": "India"
+    },
+    {
+        "venue": "Wankhede Stadium",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "country": "India"
+    },
+    {
+        "venue": "Arun Jaitley Stadium",
+        "city": "Delhi",
+        "state": "Delhi",
+        "country": "India"
+    },
+    {
+        "venue": "Maharashtra Cricket Association Stadium",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "country": "India"
+    },
+    {
+        "venue": "Narendra Modi Stadium",
+        "city": "Ahmedabad",
+        "state": "Gujarat",
+        "country": "India"
+    },
+    {
+        "venue": "Rajiv Gandhi International Stadium",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "country": "India"
+    },
+    {
+        "venue": "MA Chidambaram Stadium",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "country": "India"
+    },
+    {
+        "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "country": "India"
+    },
+    {
+        "venue": "Himachal Pradesh Cricket Association Stadium",
+        "city": "Dharamsala",
+        "state": "Himachal Pradesh",
+        "country": "India"
+    },
+    {
+        "venue": "M Chinnaswamy Stadium",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India"
+    }
+]
